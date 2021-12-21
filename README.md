@@ -1,6 +1,6 @@
 # React App Drinks
 
-![Screenshop](https://raw.githubusercontent.com/Angstromico/react-api-drinks/master/drinks.png)
+![Screenshop](https://raw.githubusercontent.com/Angstromico/git init /master/drinks.png)
 
 # [See The App Here](https://manuel-morales-react-drinks-app.netlify.app/)
 
